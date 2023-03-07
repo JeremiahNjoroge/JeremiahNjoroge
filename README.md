@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/JeremiahNjoroge)](https://github.com/JeremiahNjoroge)
+[![MasterHead](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)](https://github.com/JeremiahNjoroge)
 <h1 align="center">Hi 👋, I'm JeremiahNjoroge</h1>
 <h3 align="center">I am a Computer Science Student in Kenya passionate about Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif">
