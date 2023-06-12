@@ -1,13 +1,10 @@
 [![MasterHead](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)](https://github.com/JeremiahNjoroge)
 <h1 align="center">Hi 👋, I'm JeremiahNjoroge</h1>
 <h3 align="center">I am a Computer Science Student in Kenya passionate about Data Science.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremiahnjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="jeremiahnjoroge" /> </p>
 
 - 🔭 I’m currently working on [Titanic](https://github.com/JeremiahNjoroge/jupyter_notebook/tree/main/Titanic)
 
-- 🌱 I’m currently learning **Python, Postgre and Wordpress.**
+- 🌱 I’m currently learning **Python, Databases and Wordpress.**
 
 - 💬 Ask me about **python, sql , wordpress**
 
