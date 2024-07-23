@@ -1,22 +1,38 @@
-# Jeremiah Njoroge
+# Hi there, I'm Jeremiah Njoroge 👋
+
+I'm a passionate software developer from Kenya 🇰🇪
+
+## About Me
+
+💼 Computer Science Graduate from St. Paul’s University  
+💻 Built PlotiYangu, a Django-based property management web app  
+🌟 Strong skills in HTML, CSS, JavaScript, PHP, Python, MySQL, PostgreSQL, and more  
+❤️ I love solving complex problems and creating innovative solutions  
+💬 Ask me about anything [here](https://github.com/JeremiahNjoroge/issues)
+
+## My Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Jeremiah's GitHub Stats
 
 
-🔗 **[GitHub](https://github.com/yourusername)** | **[LinkedIn](https://linkedin.com/in/yourusername)**  
-
-## Summary
-Motivated and technically proficient Computer Science graduate with robust experience in IT support, software development, and database management. Proven ability to handle complex technical problems, provide exceptional customer support, and collaborate effectively with cross-functional teams. Eager to leverage my skills and expertise in a challenging and dynamic environment, contributing to the success of innovative projects.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiahNjoroge&layout=compact&theme=radical)
 
 ## Projects
 
 ### PlotiYangu
-**Django-based Property Management Web App**  
-Developed as a final-year project, PlotiYangu tackles operational challenges in rental properties with a user-friendly interface. Leveraged HTML, CSS, JavaScript, MySQL, and Git for efficient, scalable solutions in backend, frontend, and database management.
+A Django-based property management web app tackling operational challenges in rental properties with a user-friendly interface. Developed with HTML, CSS, JavaScript, MySQL, and Git for efficient, scalable solutions in backend, frontend, and database management.
 
-## Education
-**St. Paul’s University**  
+## Connect with Me
 
-
-## Contact Me
-Feel free to reach out if you want to discuss technology, software development, or potential collaboration. I'm always open to connecting with like-minded professionals!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiahNjoroge&show_icons=true&theme=radical)
+📧 **Email:** [karurinjoroge00@gmail.com](mailto:karurinjoroge00@gmail.com)  
+🔗 **[GitHub](https://github.com/JeremiahNjoroge)** | **[LinkedIn](https://linkedin.com/in/JeremiahNjoroge)**
