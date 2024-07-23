@@ -8,7 +8,7 @@ I'm a passionate software developer from Kenya 🇰🇪
 💻 Built PlotiYangu, a Django-based property management web app  
 🌟 Strong skills in HTML, CSS, JavaScript, PHP, Python, MySQL, PostgreSQL, and more  
 ❤️ I love solving complex problems and creating innovative solutions  
-💬 Ask me about anything [here](https://github.com/JeremiahNjoroge/issues)
+💬 Ask me about anything [here](https://x.com/Jeremiah_CIT)
 
 ## My Skills
 
