@@ -14,37 +14,7 @@ Developed as a final-year project, PlotiYangu tackles operational challenges in 
 
 ## Education
 **St. Paul’s University**  
-Bachelor’s Degree in Computer Science – *September 2020 – December 2024*
 
-**Kagumo High School**
-
-## Certifications
-- **Postman API Fundamentals Student Expert** – Postman
-- **Basic Computer Applications** – Kolping Vocational Training Institute, March 2020
-- **Cosmetic Formulation and Innovation Technology** – St. Paul’s University, October 2023
-- **Introduction to Data Science** – Coursera
-- **Introduction to Cloud Computing** – Microsoft Training
-
-## Skills
-
-### Technical Skills
-- **Programming:** HTML, CSS, JavaScript, PHP, Python
-- **Database:** MySQL, PostgreSQL
-- **Development:** Git, Visual Studio, Docker, Draw.io
-- **CMS:** WordPress
-- **Data Analytics:** Power BI, Tableau, Pandas
-- **Digital Marketing**
-- **Information Security**
-
-### Soft Skills
-- Problem-solving
-- Team Player
-- Good Communication
-- Innovative
-- Motivated
-- Adaptability
-- Honest
-- Attention to Detail
 
 ## Contact Me
 Feel free to reach out if you want to discuss technology, software development, or potential collaboration. I'm always open to connecting with like-minded professionals!
