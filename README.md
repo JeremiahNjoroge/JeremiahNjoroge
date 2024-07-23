@@ -1,7 +1,6 @@
 # Jeremiah Njoroge
 
-📱 **Mobile:** +254712290899  
-📧 **Email:** [karurinjoroge00@gmail.com](mailto:karurinjoroge00@gmail.com)  
+
 🔗 **[GitHub](https://github.com/yourusername)** | **[LinkedIn](https://linkedin.com/in/yourusername)**  
 
 ## Summary
