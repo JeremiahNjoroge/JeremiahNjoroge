@@ -40,4 +40,4 @@ A Django-based property management web app tackling operational challenges in re
 ## Connect with Me
 
 📧 **Email:** [karurinjoroge00@gmail.com](mailto:karurinjoroge00@gmail.com)  
-🔗 **[GitHub](https://github.com/JeremiahNjoroge)** | **[LinkedIn](https://linkedin.com/in/JeremiahNjoroge)**
+🔗 **[GitHub](https://github.com/JeremiahNjoroge)** | **[LinkedIn](https://linkedin.com/in/jeremiah-njoroge)**
